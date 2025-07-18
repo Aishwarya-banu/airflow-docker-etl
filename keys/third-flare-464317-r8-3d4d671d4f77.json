@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "third-flare-464317-r8",
+  "private_key_id": "3d4d671d4f7775f09992fe308eac4d89abb9bf28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKWznfSuvuXQ+3\nljGsE7mnoydBqSLhYxxySXF1xONhz78XIG0dId7R75QY8lrUvvxcB2oOFWlUlDih\nxQC/6V5ey6flIM45De65FbY+eJenh78ijlrT/MXjl8O1T+L6cHq03s2Vk+4+HKby\ngcF3+thixwKu7RWsOn71FPNaJ5er+6g/y3zB80BUf2VgT+jxpRHMEFPUBoNaXzxA\n+NAkzy/Fh1mbFOVCq4GynzZZzQJEh97zY2ykQmU05Lx6igFQc5l0ID9i3Uzc4acz\nB+hnoSUYiDz3EoLZAJVAAQQbw0CmCYM8Qnyr3Pg192SJdIAL1c3hsqz3VXKzmmkh\n4IsPNLDvAgMBAAECggEARxWQ2N3Kz2slkEpUnKw5Nahcq/YsaJyWa5ddIg/OCJgf\n+pHLgsZZLcpJbhIE0mNc5z87hEMFQ07mLf20a7YhDo/gJN9HUkeQqrfz0zItpA5N\nmGgFhB5xraesek7b3zoQAOWbtoXG1U7fXqUyP2GBDgH28VgbmurZmmKHsg3ie+lF\noeM/ClO/MyTRiHM8lDRotPQ8dra+lFJf4bcK9bP1F0jjpUiM5l+5z+HAFGwGNa6J\nIro7FyuhAy8txck6LwPxbwXTAU5H7LfD1dSgsZNKL3TOa4mmiu0Mr3sa1aZjHDSA\n1BIe8w9tU278qE7NkIzGRq0c2ldZnOnEKNWha+cu8QKBgQDlFnjb5BrFinHN52/F\ntdHrQjx862L9mDizmvkGtEz0M7gNyX5ae1gSwfxqhuewRSAphOHYqF5Vg0UKTlZM\nUgAD42SQqaC7qCDd1iDhkDfQc+CurP7EPVdufk/sh35vVnIcgL/R4w6CY8S+azxE\nLAZpAshSa92RbN3UczlQDCweJQKBgQDiINb3RaxtosFp3ex4GzA2jtfZXeUMVzCP\nw5yuAoBgwznyaeH0XKhoponYAlqa250CCHSorGYHCJnKtuYzzSrJ/t8y5za6DJHP\ndgct6gazYCVBYYoDi10Ypps0cBJH4scBOXy3wlpSHfFDcuRNlYxgfuRD6TS3h5ge\nP+y0RG70gwKBgQDkveGDvmm04R3tOK/0PC4UuBhpqyc2i+3h+FW7CgDkvVeD/LM7\naXlxkVyWiYmCCiOpEVPo34UB4YboWXv1zNLTDxR1Fcq2VZQrrQk78KKqc2nfQEFK\ndO1+GIV5aXkndquOJkhiLFNqgnAKqkyMzWDBLdQT6DxeXtPItBx//wd2OQKBgHwl\nI1+l9MBMNnt0xzo5UwLg8Uf48KMRyytibUZrQSfehpW7471QkXTC2bKpuCyEnXJc\nSg/AdlMuOaC9QSz3WqKDNu6vWbBS7kpDtjVS4lLgWhPHBQplHLtH3LWxQZgNvMvD\nT+Fi5ktm/OnWzdh6XhMsFw3hnnuUCcOxvLZLS88ZAoGBAL7DlTyX9JnrH28ey5vd\nV7bocVLDuNQOu7bL3AuXi+A/wJt94BCb4FtqK942ntLrcPdKKSH49Ndjpz0UQ5dm\nouxusOyLjIo4hmaeCbKJFHzGI0IabGjLzX4eOCoXbwyDmK1AFqoAk7oG9TvtxCT1\nDwWOPhrZ/Fhs5ByqnmBR1+iB\n-----END PRIVATE KEY-----\n",
+  "client_email": "airflow-etl-svc@third-flare-464317-r8.iam.gserviceaccount.com",
+  "client_id": "118352177298216422063",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airflow-etl-svc%40third-flare-464317-r8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
