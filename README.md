@@ -117,7 +117,7 @@ load_to_bq = BigQueryInsertJobOperator(
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 1. Visit `http://localhost:8080`
 2. Trigger `etl_to_bq` DAG manually
@@ -140,6 +140,9 @@ volumes:
 ## Success Screenshots
 
 - DAG Success in Airflow UI
+
+<img width="1500" height="695" alt="Picture1" src="https://github.com/user-attachments/assets/1362d3df-f203-4067-a021-f3a499939bf7" />
+
 - GCS Bucket File
 - BigQuery Table Data
 
