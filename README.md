@@ -144,6 +144,9 @@ volumes:
 <img width="1500" height="695" alt="Picture1" src="https://github.com/user-attachments/assets/1362d3df-f203-4067-a021-f3a499939bf7" />
 
 - GCS Bucket File
+  
+  ![WhatsApp Image 2025-07-17 at 20 21 25_efead134](https://github.com/user-attachments/assets/c2064551-1baa-48be-bf61-e19ebc7aefa4)
+
 - BigQuery Table Data
 
 ---
